@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<maven-release-plugin.version>2.5.3</maven-release-plugin.version>
+		<maven-release-plugin.version>3.0.0-M5</maven-release-plugin.version>
 		<google.jib.version>2.7.1</google.jib.version>
 	</properties>
 
